@@ -3,7 +3,7 @@ Offical repositories for <a href="https://codecanyon.net/item/nerd-vpn-flutter-v
 
 ## Admin Demo
 <ul>
-<li>Url : https://nerdvpn-demo.jempoet.id/admin</li>
+<li>Url : https://nerdvpn.laskarmedia.id/admin</li>
 <li>Email : demo@nerd.vpn</li>
 <li>Password : nerdvpndemo</li>
 </ul>
